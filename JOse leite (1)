@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>José Leite Lopes</title>
+</head>
+<body>
+    <header>
+   <center>     <h1>José Leite Lopes</h1>  </center>
+    <center>    <p>Físico Brasileiro de renomado nome </p> </center>
+ 
+    <center>  
+       <img src="abc-jose_leite_lopes.jpg" alt="jose.leite.lopes" width="500" height="200"> </center>
+    
+    </header 
+  
+    
+    <section id="biografia">
+            <h2>Biografia </h2>
+            <p>José Leite Lopes foi um renomado físico brasileiro nascido em (Recife, 28 de outubro de 1918 — Rio de Janeiro, 12 de junho de 2006)</p>
+        </section>
+        <section id="contribuicoes">
+            <h2>Contribuições</h2>
+            <p>Ao longo de sua carreira, José Leite Lopes fez diversas contribuições significativas paraAo longo de sua carreira publicou diversos artigos científicos e livros, entre os quais se destacam:[8]
+
+                Fondements de la Physique Atomique (Hermann, 1967)
+                Lectures on Symmetries (Gordon & Breach, 1969)
+                Gauge Field Theories (Pergamon Press, 1981, 1983)
+                Theorie Relativiste de la Gravitation (Masson, 1993)
+                Sources et Evolution de la Physique Quantique em colaboração com B. Escoubès, Masson, 1995</p>
+        </section>
+        <section id="legado">
+            <h2>Legado</h2>
+            <p>O legado de José Leite Lopes perdura até hoje,doutorou-se em física na Universidade de Princeton, orientado por Wolfgang Pauli.[7] É reconhecido internacionalmente por suas muitas contribuições à física teórica, especialmente nas seguintes áreas:
+
+                Predição da existência de um bóson vetorial neutro (bóson Z), em 1958, através da elaboração de uma equação que mostrava a analogia da interação nuclear fraca com o eletromagnetismo. Steven Weinberg, Sheldon Glashow e Abdus Salam usaram posteriormente estes resultados para desenvolver a unificação do eletromagnetismo e a interação nuclear fraca. Eles foram premiados com o Nobel da Física em 1979.
+                O modelo de dominância vetorial na interação nuclear fraca
+                Estrutura nuclear shell em reações fotonucleares
+                Potencial pseudoscalar de um méson na teoria do dêuteron
+                Pares de mésons escalares
+                Modelos estruturais de leptons e quarks
+             </p>
+       <center>     <img src="download.jpeg"alt="jose" > </center> 
+        </section>
+    </main>
+    <footer>
+        <p>Copyright © 2023-nicolas santos</p>
+    </footer>
+</body>
+</html>

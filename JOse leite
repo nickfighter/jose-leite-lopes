@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>José Leite Lopes</title>
+</head>
+<body>
+    <header>
+   <center>     <h1>José Leite Lopes</h1>  </center>
+    <center>    <p>Físico Brasileiro de renomado nome </p> </center>
+ 
+    <center>  
+       <img src="abc-jose_leite_lopes.jpg" alt="jose.leite.lopes" width="500" height="200"> </center>
+    
+    </header 
+  
+    
+ <section id="biografia"> 
+            <h2>Biografia </h2>
+            <p>José Leite Lopes foi um renomado físico brasileiro nascido em (Recife, 28 de outubro de 1918 — Rio de Janeiro, 12 de junho de 2006)</p>
+        </section>
+        <section id="contribuicoes">
+      <center>    <h2>Contribuições</h2> </center>
+            <p>Ao longo de sua carreira, José Leite Lopes fez diversas contribuições significativas paraAo longo de sua carreira publicou diversos artigos científicos e livros, entre os quais se destacam:[8]
+
+                Fondements de la Physique Atomique (Hermann, 1967)
+                Lectures on Symmetries (Gordon & Breach, 1969)
+                Gauge Field Theories (Pergamon Press, 1981, 1983)
+                Theorie Relativiste de la Gravitation (Masson, 1993)
+                Sources et Evolution de la Physique Quantique em colaboração com B. Escoubès, Masson, 1995</p>
+        </section>
+        <section id="legado">
+   <center>      <h2>Legado</h2> </center>
+            <p>O legado de José Leite Lopes perdura até hoje,doutorou-se em física na Universidade de Princeton, orientado por Wolfgang Pauli.[7] É reconhecido internacionalmente por suas muitas contribuições à física teórica, especialmente nas seguintes áreas:
+
+                Predição da existência de um bóson vetorial neutro (bóson Z), em 1958, através da elaboração de uma equação que mostrava a analogia da interação nuclear fraca com o eletromagnetismo. Steven Weinberg, Sheldon Glashow e Abdus Salam usaram posteriormente estes resultados para desenvolver a unificação do eletromagnetismo e a interação nuclear fraca. Eles foram premiados com o Nobel da Física em 1979.
+                O modelo de dominância vetorial na interação nuclear fraca
+                Estrutura nuclear shell em reações fotonucleares
+                Potencial pseudoscalar de um méson na teoria do dêuteron
+                Pares de mésons escalares
+                Modelos estruturais de leptons e quarks
+            </p>
+      <center>      <h2>historia</h2>  </center>
+            <p>   Em 1944, José teve a oportunidade de fazer seu doutorado na Universidade de Princeton, nos Estados Unidos, com o auxílio de uma bolsa cedida pelo governo americano. Nesta, Leite Lopes foi orientado em sua tese pelo Wolfgang Pauli e, ainda por cima, teve a oportunidade de assistir aulas ministrados por ninguém mais ninguém menos que o grande Albert Einstein. [1, 2]
+
+                Em 1946 recebeu seu título de Ph.D. e voltou ao Brasil. Nesta mesma época aproveitou o reconhecimento de seu colega Cesar Lattes, por ter recentemente descoberto o méson π, para criarem um centro de pesquisa. Em 1949, Lattes, Leite Lopes e outros físicos brasileiros fundaram o Centro Brasileiro de Pesquisas Físicas (CBPF). Teve participação também na criação de outras instituições importantes de pesquisas como o Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) e a Comissão Nacional de Energia Nuclear (CNEN). [2]
+             
+            
+            Em 1958, José Leite Lopes previu a existência de uma partícula mediadora neutra nas interações fracas no núcleo do átomo, um bóson vetorial neutro, também conhecido como bóson z. Sua pesquisa foi essencial para que outros três pesquisadores estrangeiros, Steven Weinberg, Sheldon Glashow e Abdus Salam. Em 1979, estes cientistas, utilizando os resultados das pesquisas de Leite Lopes, foram concebidos com o prêmio nobel pela contribuição na teoria da unificação do eletromagnetismo e a força fraca nuclear. [2]</p>
+         
+            </p>
+        </section>
+            <center>     <img src="download.jpeg"alt="jose"  width="300" height="250"> </center> 
+        </section>
+    </main>
+    <footer>
+        <p>Copyright © 2023-nicolas santos</p>
+    </footer>
+</body>
+</html>
